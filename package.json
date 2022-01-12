@@ -1,0 +1,31 @@
+{
+  "name": "nodejs_api_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhthien0706/nodejs_api_tutorial.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "api"
+  ],
+  "author": "Nguyen Thanh Thien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhthien0706/nodejs_api_tutorial/issues"
+  },
+  "homepage": "https://github.com/thanhthien0706/nodejs_api_tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
